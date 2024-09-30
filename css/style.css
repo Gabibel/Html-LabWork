@@ -110,7 +110,7 @@ a. Any colour you like
 b. No underline */
 
 a {
-    color: #0066cc;
+    color: #e91313;
     text-decoration: none; 
 }
 
@@ -222,7 +222,7 @@ fieldset {
     width: 500px;
     margin: 20px auto; 
     border: 3px solid #332e2e; 
-    background-color: #7260f8; 
+    background-color: #6a6bcf; 
 }
 
 /* Q#: Style any <legend> element:
